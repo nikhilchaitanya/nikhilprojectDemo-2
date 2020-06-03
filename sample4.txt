@@ -1,0 +1,2 @@
+This file is created in GITHUB Online Repository but not in Local copy. 
+So This is being added to local copy using the commit to 'master' option
